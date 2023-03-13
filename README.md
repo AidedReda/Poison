@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://poison.finance/">
-    <img src="[https://i.ibb.co/PY6GCgm/IMAGE-2023-03-13-11-40-56-removebg-preview.png](https://poison.finance)" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/wLzh640/IMAGE-2023-03-13-11-40-56-removebg-preview.png" alt="IMAGE-2023-03-13-11-40-56-removebg-preview" border="0">
   </a>
 
   <h3 align="center">POISON </h3>
