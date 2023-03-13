@@ -1,10 +1,10 @@
 <br />
 <p align="center">
   <a href="https://poison.finance/">
-    <img src="[https://arbitrum.io/wp-content/uploads/2021/08/Arbitrum_Symbol-Full-color-White-background-768x840.png](https://i.ibb.co/VqpHbGn/photo-2023-03-13-11-19-53-removebg-preview.png)" alt="Logo" width="80" height="80">
+    <img src="[https://i.ibb.co/VqpHbGn/photo-2023-03-13-11-19-53-removebg-preview.png](https://poison.finance)" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">POISON FINANCE</h3>
+  <h3 align="center">POISON </h3>
 
   <p align="center">
     <a href="https://poison.finance/"><strong>We fork all assets and go BRRRR. »</strong></a>
