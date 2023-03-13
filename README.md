@@ -12,7 +12,7 @@
   </p>
 </p>
 
-## About POISON
+## About
 
 <img src="https://i.ibb.co/VqpHbGn/photo-2023-03-13-11-19-53-removebg-preview.png" alt="Logo" width="80" height="80">
 
